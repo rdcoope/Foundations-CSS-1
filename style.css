@@ -1,10 +1,11 @@
 
-div{
+/*div{
     background-color: red;
     color: white;
     font-size: 32px;
     text-align: center;
 }
+*/
 .odd{
     background-color: #e97ae0;
     font-family: Verdana, DejaVu Sans, sans-serif;
@@ -31,4 +32,12 @@ div{
 }
 .buttontwo{
     background-color: yellow;
+}
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+.avatar.distorted{
+    width:200px;
+    height: 400px
 }

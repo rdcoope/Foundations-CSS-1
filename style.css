@@ -5,3 +5,19 @@ div{
     font-size: 32px;
     text-align: center;
 }
+.odd{
+    background-color: #e97ae0;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+div#two{
+    color:#0000ff;
+    font-size: 36px;
+}
+.font-size-adjust{
+    font-size:24px;
+}
+#four{
+    background-color: #0bd390;
+    font-size: 24px;
+    font-weight: bold;
+}

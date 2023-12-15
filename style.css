@@ -41,3 +41,9 @@
     width:200px;
     height: 400px
 }
+div p.text{
+    background-color: yellow;
+    color:red;
+    font-size:20px;
+    text-align: center;
+}

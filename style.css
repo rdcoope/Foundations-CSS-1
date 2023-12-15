@@ -9,7 +9,7 @@ div{
     background-color: #e97ae0;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
-div#two{
+#two{
     color:#0000ff;
     font-size: 36px;
 }
@@ -20,4 +20,15 @@ div#two{
     background-color: #0bd390;
     font-size: 24px;
     font-weight: bold;
+}
+.button{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.buttonone{
+    background-color:black;
+    color:white;
+}
+.buttontwo{
+    background-color: yellow;
 }
